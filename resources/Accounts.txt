@@ -1,0 +1,6 @@
+id: 0~login: user~password: user~role: USER
+
+id: 1~login: admin~password: admin~role: ADMIN
+
+id: 2~login: ad~password: ad~role: USER
+

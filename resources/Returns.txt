@@ -1,0 +1,4 @@
+id: 0~saleTime: 2020-11-29 12:46:41.741~count: 1~reason: none~idClient: 0~idEmployee: 1~idTour: 0
+
+id: 1~saleTime: 2020-11-29 12:47:32.653~count: 1~reason: none~idClient: 0~idEmployee: 1~idTour: 1
+

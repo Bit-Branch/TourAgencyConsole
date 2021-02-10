@@ -1,0 +1,10 @@
+id: 0~name: Hol~type: Common~description: none~idCountry: 5
+
+id: 1~name: Pola~type: VIP~description: none~idCountry: 4
+
+id: 2~name: Revenu~type: Common~description: none~idCountry: 3
+
+id: 3~name: Joker~type: VIP~description: none~idCountry: 0
+
+id: 4~name: Minsk~type: Common~description: BelarusianHotel~idCountry: 1
+

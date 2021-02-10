@@ -1,0 +1,4 @@
+id: 0~surname: Kolo~name: Paul~patronymic: Pavlov~passport: MC789798755~email: adasda@mail.ru~phone: 2945643564~idAccount: 0
+
+id: 1~surname: Shenov~name: Yuri~patronymic: Volkov~passport: MC786668755~email: adda@mail.ru~phone: 2956743564~idAccount: 2
+

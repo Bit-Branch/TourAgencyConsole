@@ -1,0 +1,8 @@
+id: 0~name: AllInBelarus~price: 1200.0~departureTime: 2020-11-29 12:25:24.343~departureCity: Grodno~adultsCount: 1~childrenCount: 1~daysCount: 3~nightsCount: 3~idHotel: 4~idDiscount: 0
+
+id: 1~name: AllInJapan~price: 3500.0~departureTime: 2020-11-29 12:30:11.541~departureCity: Tokyo~adultsCount: 1~childrenCount: 1~daysCount: 3~nightsCount: 3~idHotel: 0~idDiscount: 1
+
+id: 2~name: AllInPoland~price: 2500.0~departureTime: 2020-11-29 12:31:32.249~departureCity: Warszawa~adultsCount: 1~childrenCount: 1~daysCount: 3~nightsCount: 3~idHotel: 2~idDiscount: 2
+
+id: 3~name: AllInChina~price: 5000.0~departureTime: 2020-11-29 12:37:16.28~departureCity: Berlin~adultsCount: 1~childrenCount: 1~daysCount: 3~nightsCount: 3~idHotel: 3~idDiscount: 2
+
